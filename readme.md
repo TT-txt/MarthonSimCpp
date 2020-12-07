@@ -3,11 +3,11 @@
 This is the first project of my second in my ingeeniring degree, this one is about recreating a marathon simulation taking some paramaters and working in real time using **C++** and **SFML**. It is indeed pretty basic yet functionnal and has tons of intersting features.<br/>You can find out how to compile this under [this file](build/Infos.md).
 
 ### Features
-1. [Reading files in order to get and the runners and the marathon specs](https://github.com/TT-txt/MarthonSimCpp#reading-files-in-order-to-get-and-the-runners-and-the-marathon-specs)
+1. [Reading files in order to get and the runners and the marathon specs](#reading-files-in-order-to-get-and-the-runners-and-the-marathon-specs)
 2. [RNG?](#rng)
-3. [Which parameters are changing the runner's speed ?]()
-4. [Export of the results](https://github.com/TT-txt/MarthonSimCpp#-which-parameters-are-changing-the-runners-speed--)
-5. [Side notes](https://github.com/TT-txt/MarthonSimCpp#-side-notes-)
+3. [Which parameters are changing the runner's speed ?](#which-parameters-are-changing-the-runners-speed-)
+4. [Export of the results](#which-parameters-are-changing-the-runners-speed)
+5. [Side notes](#-side-notes)
 
 ### Reading files in order to get and the runners and the marathon specs
 You can use your own data in order to make the race: all you need to do is go under [userFiles/participants.txt]("userFiles/participants.txt). In this place you are going to see a txt file constructed like this:</br>
