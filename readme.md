@@ -3,14 +3,14 @@
 <p>This is the first project of my second in my ingeeniring degree, this one is about recreating a marathon simulation taking some paramaters and working in real time using <strong>C++</strong> and <strong>SFML</strong>. It is indeed pretty basic yet functionnal and has tons of intersting features.<br/>you can find out how to compile this under <a href="build/Infos.md">this file</a>.</p>
 
 ### Features
-1. <a href="#I">Reading files in order to get and the runners and the marathon specs</a>
-2. <a href="#II"> RNG?</a>
-3. <a href="#III">Which parameters are changing the runner's speed ?</a>
-4. a href="#IV">Export of the results</a>
-5. <a href="#V">Side notes</a>
+1. [Reading files in order to get and the runners and the marathon specs](https://github.com/TT-txt/MarthonSimCpp#reading-files-in-order-to-get-and-the-runners-and-the-marathon-specs)
+2. [RNG?]()
+3. [Which parameters are changing the runner's speed ?](https://github.com/TT-txt/MarthonSimCpp#-rng--)
+4. [Export of the results](https://github.com/TT-txt/MarthonSimCpp#-which-parameters-are-changing-the-runners-speed--)
+5. [Side notes](https://github.com/TT-txt/MarthonSimCpp#-side-notes-)
 
 ### Reading files in order to get and the runners and the marathon specs
-You can use your own data in order to make the race: all you need to do is go under <a href="userFiles/participants.txt">userFiles/participants.txt</a>. In this place you are going to see a txt file constructed like this:</br>
+You can use your own data in order to make the race: all you need to do is go under [userFiles/participants.txt]("userFiles/participants.txt). In this place you are going to see a txt file constructed like this:</br>
 ```
 {     
   name,     
@@ -18,16 +18,26 @@ You can use your own data in order to make the race: all you need to do is go un
   height,     
   shoes weight,   
   last marathon speed,    
-  number of weeks of training (between 8 and 16)    
+  number of weeks of training  
 }   
 ```
+Note that the weight must be set in kilograms, between 45 and 120kg, also the height must set in meters and be between 1.30 and 1.75. The shoes weight is set in grams, between 100 and 300g, the last marathon speed is set in km/h and must be between 7 and 20km/h. Finaly, the number of weeks a float between 8 and 16.
+Then you can do the same and edit this other file located under [userFiles/etapes.txt](userFiles/etapes.txt) in order to create your own marathon. The file is constructed like this:<br/>
+```
+{
+  slope,
+  range,
+  direction,
+  Has supply
+}
+```
+Note that here, the slope is a float (representing the %), it is negative when going down, and positive when going up. The range **MUST BE CUMULATED**: for exemple step 1 range is 1.2km, then the distance between the second and thrid checkpoint 2km, then the range of the 2nd step is 2 + 1.2 = 3.2km; it is also set in kilometers. Then we have the direction, which is a float between 0 and 360 representing in which direction the step, check under [libs/coureur.cpp](libs/coureur.cpp) in order to understand that. Finaly `Has supply` must be set as a boolean, which indicate if the runner can drink from this place.<br/>
+### RNG?
 
-<h3 name="II"> RNG ? </h3>
+### Which parameters are changing the runner's speed ?
 
-<h3 name="III"> Which parameters are changing the runner's speed ? </h3>
+### Export of the results 
 
-<h3 name="IV"> Export of the results </h3>
-
-<h3 name="V"> Side notes </h3>
+### Side notes
 
 
