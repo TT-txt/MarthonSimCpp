@@ -46,11 +46,11 @@ Those parameters are changing the runner speed: <br/>
 Note that the hydratation is the only thing that can make a runner give up in the race, the calculation of this are made following what my teacher asked me to do, you can see those under [libs/coureur.cpp](libs/coureur.cpp)
 
 ### Export of the results 
-Because we want to be able to check how went the race, we can export result if the const set on line 9 in [src/main.cpp](src/main.cpp) is set to true, results will be exported under [userFiles/resultats.txt](userFiles/resultats.txt)
+Because we want to be able to check how the race went, we can export result if the const set on line 9 in [src/main.cpp](src/main.cpp) is set to true, results will be exported under [userFiles/resultats.txt](userFiles/resultats.txt)
 
 ### Side notes
 It is possible that using the random generation, some races cannot be finished, I don't know if i will ever be able to fix that.</br>
 This project require SFML and C++ std 17.<br/>
 Wehenver a runner is passing a checkpoint, the rectangle representing where he is in the race is changing color. <br/>
-In order to accelerate time, you can modify the / 3600 under [src/main.cpp](src/main.cpp) on line 150 and 152, putting a smaller number will make time passt faster. <br/>
+In order to accelerate time, you can modify the / 3600 under [src/main.cpp](src/main.cpp) on line 150 and 152, putting a smaller number will make time pass faster. <br/>
 
