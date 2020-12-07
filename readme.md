@@ -12,10 +12,10 @@
 </ol>
 <h3 name="I"> Reading files in order to get and the runners and the marathon specs </h3>
 <p>You can use your own data in order to make the race: all you need to do is go under <a href="userFiles/participants.txt">userFiles/participants.txt</a>. In this place you are going to see a txt file constructed like this:</br>
-<code>
-[...]
-{
-  name,
+<code> 
+[...]</br>
+{</br>
+  name,</br>
   weight,
   height,
   shoes weight,
