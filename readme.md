@@ -11,8 +11,8 @@
   <li> <a href="#V">Side notes</a> </li>
 </ol>
 <h3 name="I"> Reading files in order to get and the runners and the marathon specs </h3>
-<p>You can use your own data in order to make the race: all you need to do is go under <a href="userFiles/participants.txt">userFiles/participants.txt</a>. In this place you are going to see a txt file constructed like this:</br>
-<code> 
+<p>You can use your own data in order to make the race: all you need to do is go under <a href="userFiles/participants.txt">userFiles/participants.txt</a>. In this place you are going to see a txt file constructed like this:</br></p>
+```json
 [...]       
 {     
   name,     
@@ -23,8 +23,8 @@
   number of weeks of training (between 8 and 16)    
 }   
 [...]
-</code>
-</p>
+```
+<p></p>
 <h3 name="II"> RNG ? </h3>
 <p></p>
 <h3 name="III"> Which parameters are changing the runner's speed ? </h3>
