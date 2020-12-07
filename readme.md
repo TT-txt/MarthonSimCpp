@@ -9,10 +9,9 @@
 4. a href="#IV">Export of the results</a>
 5. <a href="#V">Side notes</a>
 
-<h3 name="I"> Reading files in order to get and the runners and the marathon specs </h3>
+### Reading files in order to get and the runners and the marathon specs
 You can use your own data in order to make the race: all you need to do is go under <a href="userFiles/participants.txt">userFiles/participants.txt</a>. In this place you are going to see a txt file constructed like this:</br>
-```json
-[...]       
+```
 {     
   name,     
   weight,     
@@ -21,15 +20,14 @@ You can use your own data in order to make the race: all you need to do is go un
   last marathon speed,    
   number of weeks of training (between 8 and 16)    
 }   
-[...]
 ```
-<p></p>
+
 <h3 name="II"> RNG ? </h3>
-<p></p>
+
 <h3 name="III"> Which parameters are changing the runner's speed ? </h3>
-<p></p>
+
 <h3 name="IV"> Export of the results </h3>
-<p></p>
+
 <h3 name="V"> Side notes </h3>
-<p></p>
+
 
