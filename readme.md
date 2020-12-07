@@ -4,10 +4,10 @@
 
 <h3> Features </h3>
 <ol>
-  <li> Reading files in order to get and the runners and the marathon specs </li>
-  <li> generating randomly those </li>
-  <li> What is modifying the speed of a runner during the race </li>
-  <li> Export of the results </li>
-  <li>  Side notes </li>
+  <li> <a href="#">Reading files in order to get and the runners and the marathon specs</a> </li>
+  <li> <a href="#">generating randomly those</a> </li>
+  <li> <a href="#">What is modifying the speed of a runner during the race</a> </li>
+  <li> <a href="#">Export of the results</a> </li>
+  <li> <a href="#">Side notes</a> </li>
 </ol>
 <p></p>
