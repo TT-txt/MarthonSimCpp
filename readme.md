@@ -37,12 +37,19 @@ Note that here, the slope is a float (representing the %), it is negative when g
 Luckely enough, you can also choose to generate a random one, and also random runners, all you have to do is to go under [src/main.cpp](src/main.cpp) and edit the line 7 and 8. If you set the line 7 to true, the programm will use the file you made under [userFiles/participants.txt](userFiles/participants.txt), else if it set to false it will generate the number of random runners, the number can be changed on line 46, it is the first arg. You can do the same for the steps: line 8 is defined the bool and to modify how many for the generation, it is on line 52, first arg in function call.
 
 ### Which parameters are changing the runner's speed ?
+Those parameters are changing the runner speed: <br/>
+* His shoes's weight,
+* The slope of the step he is in,
+* The wind speed and wind direction
+* The number of weeks of training,
+* His hydratation
+Note that the hydratation is the only thing that can make a runner give up in the race, the calculation of this are made following what my teacher asked me to do, you can see those under [libs/coureur.cpp](libs/coureur.cpp)
 
 ### Export of the results 
 Because we want to be able to check how went the race, we can export result if the const set on line 9 in [src/main.cpp](src/main.cpp) is set to true, results will be exported under [userFiles/resultats](userFiles/resultats)
 
 ### Side notes
-It is possible that using the random generation, some races cannot be finished, I don't know if i will ever be able to fix that.
+It is possible that using the random generation, some races cannot be finished, I don't know if i will ever be able to fix that.</br>
 This project require SFML and C++ std 17.
 
 
