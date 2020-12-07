@@ -1,0 +1,296 @@
+---------------------------------------------------------------------------
+d8888b. d88888b .d8888. db    db db      d888888b  .d8b.  d888888b .d8888. 
+88  `8D 88'     88'  YP 88    88 88      `~~88~~' d8' `8b `~~88~~' 88'  YP 
+88oobY' 88ooooo `8bo.   88    88 88         88    88ooo88    88    `8bo.   
+88`8b   88~~~~~   `Y8b. 88    88 88         88    88~~~88    88      `Y8b. 
+88 `88. 88.     db   8D 88b  d88 88booo.    88    88   88    88    db   8D 
+88   YD Y88888P `8888Y' ~Y8888P' Y88888P    YP    YP   YP    YP    `8888Y' 
+---------------------------------------------------------------------------
+
+---------------------------------------------------------------------------
+Nom: Json
+	position: a abandonne au km0.321456
+Nom: Michael
+	position: 1
+Nom: Max
+	position: 8
+Nom: Manon
+	position: 4
+Nom: Gabriel
+	position: 6
+Nom: Adelie
+	position: 3
+Nom: Eloise
+	position: 7
+Nom: Samuel
+	position: 2
+Nom: Hugo
+	position: a abandonne au km0.324835
+Nom: Jason
+	position: a abandonne au km3.54434e-05
+Nom: Cecile
+	position: a abandonne au km3.3099e-05
+Nom: Louis
+	position: 5
+---------------------------------------------------------------------------
+
+8888888b.                                                             888               888                                     
+888   Y88b                                                            888               888                                     
+888    888                                                            888               888                                     
+888   d88P .d88b.  .d8888b  888  888 88888b.d88b.   .d88b.        .d88888 888  888      888888 888d888 8888b.   .d8888b .d88b.  
+8888888P" d8P  Y8b 88K      888  888 888 "888 "88b d8P  Y8b      d88" 888 888  888      888    888P"      "88b d88P"   d8P  Y8b 
+888 T88b  88888888 "Y8888b. 888  888 888  888  888 88888888      888  888 888  888      888    888    .d888888 888     88888888 
+888  T88b Y8b.          X88 Y88b 888 888  888  888 Y8b.          Y88b 888 Y88b 888      Y88b.  888    888  888 Y88b.   Y8b.     
+888   T88b "Y8888   88888P'  "Y88888 888  888  888  "Y8888        "Y88888  "Y88888       "Y888 888    "Y888888  "Y8888P "Y8888  
+---------------------------------------------------------------------------
+
+etape 0{
+	deniv: 9.78389
+	distance: 0
+	direction: 143.737
+}
+etape 1{
+	deniv: 1.14437
+	distance: 0.8439
+	direction: 1.95251
+}
+etape 2{
+	deniv: -8.17518
+	distance: 1.6878
+	direction: 57.346
+}
+etape 3{
+	deniv: 1.05525
+	distance: 2.5317
+	direction: 287.774
+}
+etape 4{
+	deniv: -9.36767
+	distance: 3.3756
+	direction: 326.69
+}
+etape 5{
+	deniv: 2.76776
+	distance: 4.2195
+	direction: 296.108
+}
+etape 6{
+	deniv: -7.23733
+	distance: 5.0634
+	direction: 315.265
+}
+etape 7{
+	deniv: 1.03927
+	distance: 5.9073
+	direction: 27.4897
+}
+etape 8{
+	deniv: 7.23426
+	distance: 6.7512
+	direction: 357.312
+}
+etape 9{
+	deniv: -5.11848
+	distance: 7.5951
+	direction: 21.104
+}
+etape 10{
+	deniv: 8.42874
+	distance: 8.439
+	direction: 355.961
+}
+etape 11{
+	deniv: -5.62952
+	distance: 9.2829
+	direction: 207.853
+}
+etape 12{
+	deniv: -9.06833
+	distance: 10.1268
+	direction: 42.8764
+}
+etape 13{
+	deniv: 5.82378
+	distance: 10.9707
+	direction: 52.0199
+}
+etape 14{
+	deniv: -0.0876522
+	distance: 11.8146
+	direction: 287.504
+}
+etape 15{
+	deniv: 4.83668
+	distance: 12.6585
+	direction: 174.532
+}
+etape 16{
+	deniv: -6.04218
+	distance: 13.5024
+	direction: 107.659
+}
+etape 17{
+	deniv: -0.19529
+	distance: 14.3463
+	direction: 104.088
+}
+etape 18{
+	deniv: -0.833061
+	distance: 15.1902
+	direction: 15.4793
+}
+etape 19{
+	deniv: -8.22993
+	distance: 16.0341
+	direction: 176.387
+}
+etape 20{
+	deniv: 9.00942
+	distance: 16.878
+	direction: 261.681
+}
+etape 21{
+	deniv: -3.75029
+	distance: 17.7219
+	direction: 31.8977
+}
+etape 22{
+	deniv: 2.05256
+	distance: 18.5658
+	direction: 311.202
+}
+etape 23{
+	deniv: -6.7007
+	distance: 19.4097
+	direction: 167.163
+}
+etape 24{
+	deniv: 7.13965
+	distance: 20.2536
+	direction: 147.255
+}
+etape 25{
+	deniv: 0.459267
+	distance: 21.0975
+	direction: 280.231
+}
+etape 26{
+	deniv: -2.04355
+	distance: 21.9414
+	direction: 266.935
+}
+etape 27{
+	deniv: -2.88424
+	distance: 22.7853
+	direction: 159.986
+}
+etape 28{
+	deniv: 7.21177
+	distance: 23.6292
+	direction: 52.9117
+}
+etape 29{
+	deniv: 1.77811
+	distance: 24.4731
+	direction: 128.234
+}
+etape 30{
+	deniv: 8.91197
+	distance: 25.317
+	direction: 119.066
+}
+etape 31{
+	deniv: 6.82036
+	distance: 26.1609
+	direction: 51.6561
+}
+etape 32{
+	deniv: 2.59585
+	distance: 27.0048
+	direction: 119.251
+}
+etape 33{
+	deniv: -1.34758
+	distance: 27.8487
+	direction: 31.7302
+}
+etape 34{
+	deniv: -2.51497
+	distance: 28.6926
+	direction: 187.605
+}
+etape 35{
+	deniv: 1.56205
+	distance: 29.5365
+	direction: 116.9
+}
+etape 36{
+	deniv: -5.03967
+	distance: 30.3804
+	direction: 320.612
+}
+etape 37{
+	deniv: -1.73345
+	distance: 31.2243
+	direction: 306.232
+}
+etape 38{
+	deniv: 5.10075
+	distance: 32.0682
+	direction: 208.185
+}
+etape 39{
+	deniv: -3.70029
+	distance: 32.9121
+	direction: 220.327
+}
+etape 40{
+	deniv: 9.74667
+	distance: 33.756
+	direction: 301.662
+}
+etape 41{
+	deniv: -2.1912
+	distance: 34.5999
+	direction: 138.656
+}
+etape 42{
+	deniv: 1.58872
+	distance: 35.4438
+	direction: 268.642
+}
+etape 43{
+	deniv: 6.59124
+	distance: 36.2877
+	direction: 158.409
+}
+etape 44{
+	deniv: 7.8641
+	distance: 37.1316
+	direction: 150.648
+}
+etape 45{
+	deniv: 5.92461
+	distance: 37.9755
+	direction: 301.969
+}
+etape 46{
+	deniv: 4.98415
+	distance: 38.8194
+	direction: 229.409
+}
+etape 47{
+	deniv: 9.64585
+	distance: 39.6633
+	direction: 136.44
+}
+etape 48{
+	deniv: 9.37003
+	distance: 40.5072
+	direction: 149.369
+}
+etape 49{
+	deniv: -0.657221
+	distance: 41.3511
+	direction: 123.391
+}
