@@ -2,7 +2,7 @@
 ### Introduction
 This is the first project of my second in my ingeeniring degree, this one is about recreating a marathon simulation taking some paramaters and working in real time using **C++** and **SFML**. It is indeed pretty basic yet functionnal and has tons of intersting features.<br/>You can find out how to compile this under [this file](build/Infos.md).
 
-### Features
+### Features:
 1. [Reading files in order to get and the runners and the marathon specs](#reading-files-in-order-to-get-and-the-runners-and-the-marathon-specs)
 2. [RNG?](#rng)
 3. [Which parameters are changing the runner's speed ?](#which-parameters-are-changing-the-runners-speed-)
