@@ -53,4 +53,4 @@ It is possible that using the random generation, some races cannot be finished, 
 This project require SFML and C++ std 17.<br/>
 Wehenver a runner is passing a checkpoint, the rectangle representing where he is in the race is changing color. <br/>
 In order to accelerate time, you can modify the / 3600 under [src/main.cpp](src/main.cpp) on line 150 and 152, putting a smaller number will make time pass faster. <br/>
-
+Since the presentation of this project, now checkpoints are equidistant, lowering the number of people giving up. <br/>
