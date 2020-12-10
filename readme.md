@@ -9,6 +9,8 @@ This is the first project of my second in my ingeeniring degree, this one is abo
 4. [Export of the results](#which-parameters-are-changing-the-runners-speed)
 5. [Side notes](#-side-notes)
 
+---
+
 ### I. Reading files in order to get and the runners and the marathon specs
 You can use your own data in order to make the race: all you need to do is go under [userFiles/participants.txt]("userFiles/participants.txt). In this place you are going to see a txt file constructed like this:</br>
 ```
